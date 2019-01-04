@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/C_badge.e2e97c98.png"
   },
   {
-    "revision": "956fc64d237f973825b2",
-    "url": "/portfolio/static/css/main.e4d1be01.chunk.css"
+    "revision": "1782f5b411de5b8cc111",
+    "url": "/portfolio/static/css/main.5ee9a81f.chunk.css"
   },
   {
     "revision": "a3ff9b5be25e24499fbb00986868833b",
@@ -60,8 +60,8 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/flutter_badge.8a50b602.png"
   },
   {
-    "revision": "956fc64d237f973825b2",
-    "url": "/portfolio/static/js/main.956fc64d.chunk.js"
+    "revision": "1782f5b411de5b8cc111",
+    "url": "/portfolio/static/js/main.1782f5b4.chunk.js"
   },
   {
     "revision": "f6856acbe4ed610fb4d048b1828ea11d",
@@ -120,7 +120,7 @@ self.__precacheManifest = [
     "url": "/portfolio/static/css/1.94154324.chunk.css"
   },
   {
-    "revision": "838d0ddd4ab388c23cf9d2e772478d05",
+    "revision": "bdc3953c00b72da4c3b3fc89903a686b",
     "url": "/portfolio/index.html"
   }
 ];

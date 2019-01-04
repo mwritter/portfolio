@@ -19,7 +19,11 @@ p {
   font-family: "Poppins", sans-serif;
   color: #707070;
 }
-h1 {
+h1,
+h2,
+h3,
+h4,
+h5 {
   color: #707070;
 }
 

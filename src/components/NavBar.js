@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
 
-const menuItems = ["skills", "projects", "github"];
+const menuItems = ["skills", "projects", "github", "resume"];
 
 export default class NavBar extends Component {
   constructor() {
@@ -53,7 +53,6 @@ export default class NavBar extends Component {
     return (
       <div className="myNavBar">
         <h1>Software Developer</h1>
-
         <ul className="nav">{this.renderMenuItems()}</ul>
       </div>
     );
